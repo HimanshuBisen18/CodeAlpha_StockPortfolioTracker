@@ -29,7 +29,7 @@ python3 stock_tracker.py
 
 ## Example
 
-
+```
 === Stock Portfolio Tracker ===
 
 Available stocks and prices (per share):
@@ -47,14 +47,15 @@ Stock symbol: done
 AAPL: 10 share(s) x $180 = $1800
 
 Total Investment Value: $1800
-
+```
 
 ## Project Structure
 
-
+```
 CodeAlpha_StockPortfolioTracker/
 ├── stock_tracker.py
 └── README.md
+```
 
 ## Author
 
